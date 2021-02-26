@@ -13,7 +13,7 @@ Unity version: 2019.4.20f1 <br/>
 3) Import the .fbx model into unity.
 4) At Unity's Project panel-> right click-> Create-> Material.
 5) Click on the newly create material-> Inspector-> Change rendering mode into: "Fade" + Change color's alpha value to zero-> Done.
-6) Drag the material into: MultiTarget-> ChildTargets-> Mask Out Behaviour (Script)-> Mask Material.
+6) Drag the material into: MultiTarget-> ChildTargets-> Mask Out Behaviour (Script)-> Mask Material (all six faces of the cube).
 7) Done, probably will make a video for this maybeee.
 
 # How to upload unity+vuforia project to github:

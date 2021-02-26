@@ -1,4 +1,4 @@
-# Augmented Reality Dance
+# Augmented Reality Cube Dance
 Vuforia version: add-vuforia-package-9-7-5 <br/>
 Unity version: 2019.4.20f1 <br/> 
 

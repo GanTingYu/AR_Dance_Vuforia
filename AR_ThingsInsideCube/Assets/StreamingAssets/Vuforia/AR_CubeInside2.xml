@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="AR_CubeInside2.Top" size="1.000000 1.000000"/>
+        <ImageTarget name="AR_CubeInside2.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="AR_CubeInside2.Left" size="1.000000 1.000000"/>
+        <ImageTarget name="AR_CubeInside2.Bottom" size="1.000000 1.000000"/>
+        <ImageTarget name="AR_CubeInside2.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="AR_CubeInside2.Front" size="1.000000 1.000000"/>
+        <MultiTarget name="AR_CubeInside2">
+            <Part name="AR_CubeInside2.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="AR_CubeInside2.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="AR_CubeInside2.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+            <Part name="AR_CubeInside2.Back" translation="0 0 -0.5" rotation="AD: 0 1 0 180"/>
+            <Part name="AR_CubeInside2.Top" translation="0 0.5 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="AR_CubeInside2.Bottom" translation="0 -0.5 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

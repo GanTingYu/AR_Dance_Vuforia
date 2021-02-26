@@ -27,5 +27,5 @@ Contact: gantingyu@gmail.com
 
 # Future plans:
 1) Add cube surroundings <br/>
-<img src="github_images/future_surrounding.PNG" height="100">
+<img src="github_images/future_surrounding.PNG">
 

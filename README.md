@@ -1,8 +1,8 @@
 # Augmented Reality Cube Dance
 Vuforia version: add-vuforia-package-9-7-5 <br/>
 Unity version: 2019.4.20f1 <br/> 
-Author: Gan Ting Yu
-Contact: gantingyu@gmail.com
+Author: Gan Ting Yu <br/>
+Contact: gantingyu@gmail.com <br/>
 
 # Extra Notes:
 1) "Paint.net" software <- To resize image into 280x280px. <br/> 

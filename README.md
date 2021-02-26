@@ -28,4 +28,6 @@ Contact: gantingyu@gmail.com
 # Future plans:
 1) Add cube surroundings <br/>
 <img src="github_images/future_surrounding.PNG">
-
+2) Gun/swords for pick up? Punching combo? <br/>
+3) Rag doll enemy? <br/>
+4) Destroyable assets like table etc. <br/>

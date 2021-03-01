@@ -9,6 +9,10 @@ Contact: gantingyu@gmail.com <br/>
 2) "3dthis.com" <- To make the printable 3d cube. <br/> 
 3) 3D Model Used: Unity Asset Store -> AcquireChan(free) <br/> 
 
+# Links:
+1) https://www.nicovideo.jp/watch/sm29180863 (Dance .mwv animation download) <br/> 
+2) https://www.deviantart.com/nephnashine-p/art/TDA-Default-Upless-Miku-Bonus-Models-DL-626626133 (3D anime girl model download) <br/> 
+
 # To see things inside a cuboid:
 1) I'm using "blender" software, invert the cube's normal from outside towards inside.
 2) After invert plane normal, export cube into ".fbx" format.

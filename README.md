@@ -4,7 +4,7 @@ Unity version: 2019.4.20f1 <br/>
 Author: Gan Ting Yu <br/>
 Contact: gantingyu@gmail.com <br/>
 
-![](github_images/dinoRainbow.gif)
+![](github_images/dinoRainbow.gif)![](github_images/dinoRainbow2.gif)
 
 # Extra Notes:
 1) "Paint.net" software <- To resize image into 280x280px. <br/> 
@@ -32,7 +32,7 @@ Contact: gantingyu@gmail.com <br/>
 
 # Future plans:
 1) Add cube surroundings <br/>
-<img src="github_images/future_surrounding.PNG" width="150"?
+<img src="github_images/future_surrounding.PNG" width="150">
 2) Gun/swords for pick up? Punching combo? <br/>
 3) Rag doll enemy? <br/>
 4) Destroyable assets like table etc. <br/>

@@ -7,7 +7,6 @@ Contact: gantingyu@gmail.com <br/>
 # Extra Notes:
 1) "Paint.net" software <- To resize image into 280x280px. <br/> 
 2) "3dthis.com" <- To make the printable 3d cube. <br/> 
-3) 3D Model Used: Unity Asset Store -> AcquireChan(free) <br/> 
 
 # Links:
 1) https://www.nicovideo.jp/watch/sm29180863 (Dance .mwv animation download) <br/> 

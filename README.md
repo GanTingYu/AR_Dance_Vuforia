@@ -4,7 +4,7 @@ Unity version: 2019.4.20f1 <br/>
 Author: Gan Ting Yu <br/>
 Contact: gantingyu@gmail.com <br/>
 
-<img src="github_images/dinoRainbow.gif" width="50"><img src="github_images/dinoRainbow2.gif" width="50">
+<img src="github_images/dinoRainbow.gif" width="150"><img src="github_images/dinoRainbow2.gif" width="150">
 
 # Extra Notes:
 1) "Paint.net" software <- To resize image into 280x280px. <br/> 

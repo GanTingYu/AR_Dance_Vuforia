@@ -4,6 +4,8 @@ Unity version: 2019.4.20f1 <br/>
 Author: Gan Ting Yu <br/>
 Contact: gantingyu@gmail.com <br/>
 
+![](github_images/dinoRainbow.gif)
+
 # Extra Notes:
 1) "Paint.net" software <- To resize image into 280x280px. <br/> 
 2) "3dthis.com" <- To make the printable 3d cube. <br/> 

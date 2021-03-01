@@ -32,7 +32,7 @@ Contact: gantingyu@gmail.com <br/>
 
 # Future plans:
 1) Add cube surroundings <br/>
-<img src="github_images/future_surrounding.PNG" width:"150">
+<img src="github_images/future_surrounding.PNG" max-width:"150">
 2) Gun/swords for pick up? Punching combo? <br/>
 3) Rag doll enemy? <br/>
 4) Destroyable assets like table etc. <br/>
